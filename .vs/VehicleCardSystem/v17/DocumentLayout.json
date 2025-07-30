@@ -99,8 +99,7 @@
               "RelativeToolTip": "..\\VehicleCardSystem.Web\\Views\\Vehicles\\Details.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T13:11:20.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T13:11:20.529Z"
             },
             {
               "$type": "Document",
@@ -112,8 +111,7 @@
               "RelativeToolTip": "..\\VehicleCardSystem.Web\\Views\\Vehicles\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T12:46:38.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T12:46:38.454Z"
             },
             {
               "$type": "Document",
@@ -125,8 +123,7 @@
               "RelativeToolTip": "..\\VehicleCardSystem.Web\\Views\\Vehicles\\Edit.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAAACAAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T11:12:37.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T11:12:37.233Z"
             },
             {
               "$type": "Document",
@@ -138,8 +135,7 @@
               "RelativeToolTip": "..\\VehicleCardSystem.Web\\Views\\Vehicles\\Create.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAmwDsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T01:37:32.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T01:37:32.721Z"
             },
             {
               "$type": "Document",
@@ -151,8 +147,7 @@
               "RelativeToolTip": "..\\VehicleCardSystem.Web\\Views\\Vehicles\\Index.cshtml",
               "ViewState": "AgIAABwAAAAAAAAAAAAqwCYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T01:24:38.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T01:24:38.92Z"
             },
             {
               "$type": "Document",
@@ -164,8 +159,7 @@
               "RelativeToolTip": "..\\VehicleCardSystem.Web\\Controllers\\VehiclesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T00:35:01.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T00:35:01.206Z"
             },
             {
               "$type": "Document",
@@ -177,8 +171,7 @@
               "RelativeToolTip": "..\\VehicleCardSystem.Web\\Controllers\\VehicleTypesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T21:46:20.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T21:46:20.154Z"
             },
             {
               "$type": "Document",
@@ -190,8 +183,7 @@
               "RelativeToolTip": "..\\VehicleCardSystem.Web\\Views\\VehicleTypes\\Delete.cshtml",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T00:17:50.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T00:17:50.028Z"
             },
             {
               "$type": "Document",
@@ -203,8 +195,7 @@
               "RelativeToolTip": "..\\VehicleCardSystem.Web\\Views\\VehicleTypes\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T00:04:17.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T00:04:17.153Z"
             },
             {
               "$type": "Document",
@@ -216,8 +207,7 @@
               "RelativeToolTip": "..\\VehicleCardSystem.Web\\Views\\VehicleTypes\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-29T23:41:18.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T23:41:18.969Z"
             },
             {
               "$type": "Document",
@@ -229,8 +219,7 @@
               "RelativeToolTip": "..\\VehicleCardSystem.Web\\Views\\VehicleTypes\\Create.cshtml",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-29T23:02:26.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T23:02:26.968Z"
             },
             {
               "$type": "Document",
@@ -242,8 +231,7 @@
               "RelativeToolTip": "..\\VehicleCardSystem.Web\\Views\\VehicleTypes\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-29T22:22:27.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T22:22:27.901Z"
             },
             {
               "$type": "Document",
@@ -291,8 +279,7 @@
               "RelativeToolTip": "..\\VehicleCardSystem.Core\\Models\\Vehicle.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAcwAsAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T19:51:56.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T19:51:56.109Z"
             },
             {
               "$type": "Document",
@@ -302,7 +289,7 @@
               "RelativeDocumentMoniker": "..\\VehicleCardSystem.Core\\Models\\VehicleType.cs",
               "ToolTip": "C:\\Users\\BerfinKARACA\\source\\repos\\VehicleCardSystem.Core\\Models\\VehicleType.cs",
               "RelativeToolTip": "..\\VehicleCardSystem.Core\\Models\\VehicleType.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABWAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-29T19:51:12.766Z",
               "EditorCaption": ""
