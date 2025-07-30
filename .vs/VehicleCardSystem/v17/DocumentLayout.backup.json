@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\BerfinKARACA\\source\\repos\\VehicleCardSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D4D25BAB-A2BE-484D-82A7-3356F2F8DF42}|..\\VehicleCardSystem.Core\\VehicleCardSystem.Core.csproj|c:\\users\\berfinkaraca\\source\\repos\\vehiclecardsystem.core\\vehiclecardsystem.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D4D25BAB-A2BE-484D-82A7-3356F2F8DF42}|..\\VehicleCardSystem.Core\\VehicleCardSystem.Core.csproj|c:\\users\\berfinkaraca\\source\\repos\\vehiclecardsystem.core\\models\\vehicletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -48,9 +51,6 @@
       "AbsoluteMoniker": "D:0:0:{79DB2C84-1000-4BF6-AA8E-136A754AB4E8}|..\\VehicleCardSystem.Web\\VehicleCardSystem.Web.csproj|c:\\users\\berfinkaraca\\source\\repos\\vehiclecardsystem.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4D25BAB-A2BE-484D-82A7-3356F2F8DF42}|..\\VehicleCardSystem.Core\\VehicleCardSystem.Core.csproj|c:\\users\\berfinkaraca\\source\\repos\\vehiclecardsystem.core\\vehiclecardsystem.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{79DB2C84-1000-4BF6-AA8E-136A754AB4E8}|..\\VehicleCardSystem.Web\\VehicleCardSystem.Web.csproj|c:\\users\\berfinkaraca\\source\\repos\\vehiclecardsystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -87,11 +87,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\BerfinKARACA\\source\\repos\\VehicleCardSystem.Web\\Views\\Vehicles\\Details.cshtml",
               "RelativeDocumentMoniker": "..\\VehicleCardSystem.Web\\Views\\Vehicles\\Details.cshtml",
@@ -99,12 +99,11 @@
               "RelativeToolTip": "..\\VehicleCardSystem.Web\\Views\\Vehicles\\Details.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T13:11:20.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T13:11:20.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\BerfinKARACA\\source\\repos\\VehicleCardSystem.Web\\Views\\Vehicles\\Delete.cshtml",
               "RelativeDocumentMoniker": "..\\VehicleCardSystem.Web\\Views\\Vehicles\\Delete.cshtml",
@@ -112,12 +111,11 @@
               "RelativeToolTip": "..\\VehicleCardSystem.Web\\Views\\Vehicles\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T12:46:38.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T12:46:38.454Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\BerfinKARACA\\source\\repos\\VehicleCardSystem.Web\\Views\\Vehicles\\Edit.cshtml",
               "RelativeDocumentMoniker": "..\\VehicleCardSystem.Web\\Views\\Vehicles\\Edit.cshtml",
@@ -125,12 +123,11 @@
               "RelativeToolTip": "..\\VehicleCardSystem.Web\\Views\\Vehicles\\Edit.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAAACAAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T11:12:37.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T11:12:37.233Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\BerfinKARACA\\source\\repos\\VehicleCardSystem.Web\\Views\\Vehicles\\Create.cshtml",
               "RelativeDocumentMoniker": "..\\VehicleCardSystem.Web\\Views\\Vehicles\\Create.cshtml",
@@ -138,12 +135,11 @@
               "RelativeToolTip": "..\\VehicleCardSystem.Web\\Views\\Vehicles\\Create.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAmwDsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T01:37:32.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T01:37:32.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\BerfinKARACA\\source\\repos\\VehicleCardSystem.Web\\Views\\Vehicles\\Index.cshtml",
               "RelativeDocumentMoniker": "..\\VehicleCardSystem.Web\\Views\\Vehicles\\Index.cshtml",
@@ -151,12 +147,11 @@
               "RelativeToolTip": "..\\VehicleCardSystem.Web\\Views\\Vehicles\\Index.cshtml",
               "ViewState": "AgIAABwAAAAAAAAAAAAqwCYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T01:24:38.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T01:24:38.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "VehiclesController.cs",
               "DocumentMoniker": "C:\\Users\\BerfinKARACA\\source\\repos\\VehicleCardSystem.Web\\Controllers\\VehiclesController.cs",
               "RelativeDocumentMoniker": "..\\VehicleCardSystem.Web\\Controllers\\VehiclesController.cs",
@@ -164,12 +159,11 @@
               "RelativeToolTip": "..\\VehicleCardSystem.Web\\Controllers\\VehiclesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T00:35:01.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T00:35:01.206Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "VehicleTypesController.cs",
               "DocumentMoniker": "C:\\Users\\BerfinKARACA\\source\\repos\\VehicleCardSystem.Web\\Controllers\\VehicleTypesController.cs",
               "RelativeDocumentMoniker": "..\\VehicleCardSystem.Web\\Controllers\\VehicleTypesController.cs",
@@ -177,12 +171,11 @@
               "RelativeToolTip": "..\\VehicleCardSystem.Web\\Controllers\\VehicleTypesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T21:46:20.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T21:46:20.154Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\BerfinKARACA\\source\\repos\\VehicleCardSystem.Web\\Views\\VehicleTypes\\Delete.cshtml",
               "RelativeDocumentMoniker": "..\\VehicleCardSystem.Web\\Views\\VehicleTypes\\Delete.cshtml",
@@ -190,12 +183,11 @@
               "RelativeToolTip": "..\\VehicleCardSystem.Web\\Views\\VehicleTypes\\Delete.cshtml",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T00:17:50.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T00:17:50.028Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\BerfinKARACA\\source\\repos\\VehicleCardSystem.Web\\Views\\VehicleTypes\\Details.cshtml",
               "RelativeDocumentMoniker": "..\\VehicleCardSystem.Web\\Views\\VehicleTypes\\Details.cshtml",
@@ -203,12 +195,11 @@
               "RelativeToolTip": "..\\VehicleCardSystem.Web\\Views\\VehicleTypes\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T00:04:17.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T00:04:17.153Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\BerfinKARACA\\source\\repos\\VehicleCardSystem.Web\\Views\\VehicleTypes\\Edit.cshtml",
               "RelativeDocumentMoniker": "..\\VehicleCardSystem.Web\\Views\\VehicleTypes\\Edit.cshtml",
@@ -216,12 +207,11 @@
               "RelativeToolTip": "..\\VehicleCardSystem.Web\\Views\\VehicleTypes\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-29T23:41:18.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T23:41:18.969Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\BerfinKARACA\\source\\repos\\VehicleCardSystem.Web\\Views\\VehicleTypes\\Create.cshtml",
               "RelativeDocumentMoniker": "..\\VehicleCardSystem.Web\\Views\\VehicleTypes\\Create.cshtml",
@@ -229,12 +219,11 @@
               "RelativeToolTip": "..\\VehicleCardSystem.Web\\Views\\VehicleTypes\\Create.cshtml",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-29T23:02:26.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T23:02:26.968Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\BerfinKARACA\\source\\repos\\VehicleCardSystem.Web\\Views\\VehicleTypes\\Index.cshtml",
               "RelativeDocumentMoniker": "..\\VehicleCardSystem.Web\\Views\\VehicleTypes\\Index.cshtml",
@@ -242,8 +231,7 @@
               "RelativeToolTip": "..\\VehicleCardSystem.Web\\Views\\VehicleTypes\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-29T22:22:27.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T22:22:27.901Z"
             },
             {
               "$type": "Document",
@@ -271,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\BerfinKARACA\\source\\repos\\VehicleCardSystem.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "..\\VehicleCardSystem.Web\\Views\\Shared\\_Layout.cshtml",
@@ -283,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "C:\\Users\\BerfinKARACA\\source\\repos\\VehicleCardSystem.Core\\Models\\Vehicle.cs",
               "RelativeDocumentMoniker": "..\\VehicleCardSystem.Core\\Models\\Vehicle.cs",
@@ -291,25 +279,24 @@
               "RelativeToolTip": "..\\VehicleCardSystem.Core\\Models\\Vehicle.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAcwAsAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T19:51:56.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T19:51:56.109Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "VehicleType.cs",
               "DocumentMoniker": "C:\\Users\\BerfinKARACA\\source\\repos\\VehicleCardSystem.Core\\Models\\VehicleType.cs",
               "RelativeDocumentMoniker": "..\\VehicleCardSystem.Core\\Models\\VehicleType.cs",
               "ToolTip": "C:\\Users\\BerfinKARACA\\source\\repos\\VehicleCardSystem.Core\\Models\\VehicleType.cs",
               "RelativeToolTip": "..\\VehicleCardSystem.Core\\Models\\VehicleType.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABWAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA6wBAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-29T19:51:12.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 0,
               "Title": "VehicleCardSystem.Core.csproj",
               "DocumentMoniker": "C:\\Users\\BerfinKARACA\\source\\repos\\VehicleCardSystem.Core\\VehicleCardSystem.Core.csproj",
               "RelativeDocumentMoniker": "..\\VehicleCardSystem.Core\\VehicleCardSystem.Core.csproj",
@@ -317,7 +304,8 @@
               "RelativeToolTip": "..\\VehicleCardSystem.Core\\VehicleCardSystem.Core.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-29T19:30:14.215Z"
+              "WhenOpened": "2025-07-29T19:30:14.215Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -328,7 +316,8 @@
               "ToolTip": "C:\\Users\\BerfinKARACA\\source\\repos\\VehicleCardSystem\\VehicleCardSystem.csproj",
               "RelativeToolTip": "VehicleCardSystem.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-29T18:23:37.125Z"
+              "WhenOpened": "2025-07-29T18:23:37.125Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
